@@ -2,7 +2,7 @@ EXTM3U
 #EXTINF:-1,咪咕4k
 http://129.226.149.79:4785/html/freetest0321.php?access_token=test1208faku&id=Slive01
 #EXTINF:-1 group-title="广东台" tvg-id="Now618" tvg-logo="http://tv.haoqu99.com/d/file/2014/0718/20140718061617261.jpg",now618
-http://111.160.76.101:80/香蕉哥/now体育3.live.ts
+http://cdn.1678520.xyz/xsj.php?id=now-sports-618
 #EXTINF:-1 group-title="广东台" tvg-id="广东体育" tvg-logo="http://tv.haoqu99.com/d/file/2014/0718/20140718061617261.jpg",广东体育
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 #EXTINF:-1 group-title="广东台" tvg-id="广东体育" tvg-logo="http://tv.haoqu99.com/d/file/2014/0718/20140718061617261.jpg",广东体育
