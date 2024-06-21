@@ -15,6 +15,8 @@ http://124.205.11.246:91/live/CCTV5hd-8M/live.m3u8
 http://124.205.11.246:91/live/CCTV5+hd-8M/live.m3
 #EXTINF:-1,Now Lucky 688 欧洲杯
 https://histar.zapi.us.kg/?id=now-lucky-688
+#EXTINF:-1,Now Sports 668 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
 #EXTINF:-1,Now NBA
 https://histar.zapi.us.kg/?id=now-nba
 #EXTINF:-1,Now 新闻台
@@ -35,6 +37,8 @@ https://histar.zapi.us.kg/?id=now-sports-6
 https://histar.zapi.us.kg/?id=now-sports-618
 #EXTINF:-1,Now Sports 619 欧洲杯
 https://histar.zapi.us.kg/?id=now-sports-619
+#EXTINF:-1,Now Sports 668 欧洲杯
+http://php.jdshipin.com:8880/xsj.php?id=now-lucky-688
 #EXTINF:-1,Now Sports 641
 https://histar.zapi.us.kg/?id=now-sports641
 #EXTINF:-1,Now Sports 7
