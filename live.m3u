@@ -1,4 +1,8 @@
 EXTM3U
+#EXTINF:-1,CCTV5体育HD
+http://124.205.11.246:91/live/CCTV5hd-8M/live.m3u8
+#EXTINF:-1,CCTV5+体育赛事HD
+http://124.205.11.246:91/live/CCTV5+hd-8M/live.m3
 #EXTINF:-1,nowsports 1
 http://cdn.1678520.xyz/xsj.php?id=now-sports-1
 #EXTINF:-1,nowsports 2
