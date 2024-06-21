@@ -13,6 +13,32 @@ http://125.92.103.146:8899/udp/239.77.1.147:5146
 http://124.205.11.246:91/live/CCTV5hd-8M/live.m3u8
 #EXTINF:-1,CCTV5+体育赛事HD
 http://124.205.11.246:91/live/CCTV5+hd-8M/live.m3
+#EXTINF:-1,Now Lucky 688 欧洲杯
+https://histar.zapi.us.kg/?id=now-lucky-688
+#EXTINF:-1,Now NBA
+https://histar.zapi.us.kg/?id=now-nba
+#EXTINF:-1,Now 新闻台
+https://histar.zapi.us.kg/?id=now-news
+#EXTINF:-1,Now Sports 1
+https://histar.zapi.us.kg/?id=now-sports-1
+#EXTINF:-1,Now Sports 2
+https://histar.zapi.us.kg/?id=now-sports-2
+#EXTINF:-1,Now Sports 3
+https://histar.zapi.us.kg/?id=now-sports-3
+#EXTINF:-1,Now Sports 4
+https://histar.zapi.us.kg/?id=now-sports-4
+#EXTINF:-1,Now Sports 5
+https://histar.zapi.us.kg/?id=now-sports-5
+#EXTINF:-1,Now Sports 6
+https://histar.zapi.us.kg/?id=now-sports-6
+#EXTINF:-1,Now Sports 618 欧洲杯
+https://histar.zapi.us.kg/?id=now-sports-618
+#EXTINF:-1,Now Sports 619 欧洲杯
+https://histar.zapi.us.kg/?id=now-sports-619
+#EXTINF:-1,Now Sports 641
+https://histar.zapi.us.kg/?id=now-sports641
+#EXTINF:-1,Now Sports 7
+https://histar.zapi.us.kg/?id=now-sports-7
 #EXTINF:-1,nowsports 1
 http://cdn.1678520.xyz/xsj.php?id=now-sports-1
 #EXTINF:-1,nowsports 2
