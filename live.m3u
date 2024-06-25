@@ -1,5 +1,7 @@
 EXTM3U
 
+#EXTINF:-1,咪咕4k
+http://39.135.134.67/000000001000/3000000001000007218/index.m3u8
 #EXTINF:-1,CCTV5-体育a
 http://gouwu.pthv.gitv.tv:91/live/CCTV5-1500k/live.m3u8
 #EXTINF:-1,CCTV5-体育b
