@@ -1,6 +1,6 @@
-EXTM3U
+#EXTM3U
 
-#EXTINF:-1 tvg-id="908",ORF 1
+#EXTINF:-1,ORF 1
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
